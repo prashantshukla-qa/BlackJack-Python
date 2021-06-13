@@ -7,6 +7,14 @@ This is implemenation as instructed in udemy python bootcamp but with some varia
 ## Requirement
 * python 3.8
 
+## Instructions
+
+### To run the tests
+
+  ``` bash
+    $> python -m unittest discover
+  ```
+
 ## Udemy resource
 I am using following udemy bootcamp by Pierian Data. The course is created and taught by [Jose Portilla](https://www.udemy.com/user/joseportilla/). This is implementation of Milestone-2
 
