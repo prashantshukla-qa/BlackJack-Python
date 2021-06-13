@@ -1,4 +1,5 @@
-# BlackJack-Python
+# Black Jack Python
+
 Practice : Implementing black jack in python
 
 This is implemenation as instructed in udemy python bootcamp but with some variation. Using python scripting instead of jupyter notebook.
