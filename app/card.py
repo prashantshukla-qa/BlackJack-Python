@@ -1,6 +1,6 @@
-from dataclasses import dataclass
-
 '''Card Module'''
+
+from dataclasses import dataclass
 
 SUITES = ('Hearts', 'Diamonds', 'Spades', 'Clubs')
 RANKS = ('Two', 'Three', 'Four', 'Five', 'Six', 'Seven',
@@ -11,6 +11,8 @@ VALUES = {'Two': 2, 'Three': 3, 'Four': 4, 'Five': 5, 'Six': 6,
 
 @dataclass
 class Card:
+    '''Cards class
+    '''
     suit: str
     rank: str
 
