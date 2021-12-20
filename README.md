@@ -21,5 +21,3 @@ I am using following udemy bootcamp by Pierian Data. The course is created and t
 [Udemy Course: Complete-Python-3-Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
 
 :star: Absolutely recomend for python beginners
-
-Testing for JIRA-INtegration
